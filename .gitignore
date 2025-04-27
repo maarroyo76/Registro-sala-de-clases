@@ -1,0 +1,5 @@
+\venv
+\__pycache__
+alumnos.json
+\tests
+Registro.py
